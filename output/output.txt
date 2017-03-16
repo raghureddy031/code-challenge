@@ -1,1 +1,1 @@
-Your output data will end up here
+['iii9qxg61iku: 14252.2058824', 'h1hcn54khv34: 14221.6941176', 'gumeepmy20f0: 13865.1882353', 'cf4b0wz8ewct: 13260.3058824', 'djmhggrwl5av: 11384.1', 'jsm4xye3pjcy: 10975.1352941', 'lcwmftwyqygw: 10958.5411765', 'jf67ptu3vtu0: 10629.8705882', 'dugm7879xn5v: 10451.0823529', '4wiw0plg3x4w: 10190.9294118']
